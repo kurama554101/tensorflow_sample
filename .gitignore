@@ -67,3 +67,4 @@ fabric.properties
 
 # Add custom ignore file
 .idea/*
+models/*
